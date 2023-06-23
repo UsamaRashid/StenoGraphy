@@ -1,4 +1,4 @@
-# Image STENOGRAPHY Encoder
+# Image Stenography Encoder
 
 This is a README file for the Image Message Encoder project. The project involves encoding a message into an image using the least significant bits (LSB) technique.
 
